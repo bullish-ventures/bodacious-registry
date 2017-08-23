@@ -1,3 +1,7 @@
 {
-  "bodacious-i18n": "bullish-ventures/ignite-i18n"
+  "bodacious-i18n": {
+    "author": "Bullish",
+    "description": "i18n plugin",
+    "url": "https://github.com/bullish-ventures/ignite-i18n"
+  }
 }
